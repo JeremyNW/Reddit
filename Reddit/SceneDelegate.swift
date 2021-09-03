@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Reddit
+//  DaysOfTheWeek
 //
-//  Created by Jeremy Warren on 9/3/21.
+//  Created by Jeremy Warren on 9/2/21.
 //
 
 import UIKit
